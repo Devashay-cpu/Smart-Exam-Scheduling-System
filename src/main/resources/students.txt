@@ -1,0 +1,6 @@
+S1:Math,Physics
+S2:Math,Chemistry
+S3:Physics,Chemistry
+S4:Biology,Math
+S5:Biology,Physics
+S6:English
